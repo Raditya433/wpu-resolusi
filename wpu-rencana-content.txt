@@ -5,6 +5,7 @@ RENCANA CONTENCT WPU
   * Framework Javascript
     ^ Vue
     ^ React
+    ^ Angular
 - Materi Data Struktur
 - PHP Framework
   * Laravel
